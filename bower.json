@@ -1,0 +1,24 @@
+{
+  "name": "pinyin",
+  "description": "汉语拼音转换工具。",
+  "main": "lib/web-detector.js",
+  "authors": [
+    "闲耘 <hotoo.cn@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "拼音",
+    "汉语",
+    "汉字",
+    "中文",
+    "Pinyin"
+  ],
+  "homepage": "https://github.com/hotoo/pinyin",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
